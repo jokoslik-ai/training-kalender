@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workout_file>
+  <author>health-coach</author>
+  <name>Lockeres Rad (optional) · 30′: Rollentrainer sehr locker Z1 (≤117 bpm, ~100 W), Kadenz 90–95; Aufbau/Test des Trainers; entfällt bei Müdigkeit oder zu hoher Last</name>
+  <description>30′ @50 %</description>
+  <sportType>bike</sportType>
+  <tags/>
+  <workout>
+    <SteadyState Duration="1800" Power="0.50"/>
+  </workout>
+</workout_file>

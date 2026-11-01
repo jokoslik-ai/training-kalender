@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:2026-10-25@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Langer Lauf 60–65′ Z2 (117–136 bpm)
@@ -16,7 +16,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-26@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Lauf locker 30–40′ Z2 (117–136 bpm)\, flach\, Pace nach Gef
@@ -27,7 +27,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Rad Z2 ca. 90′ outdoor (117–136 bpm)\, wetterbedingt vorge…
@@ -37,7 +37,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Kraft Ganzkörper
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Lauf-Intervalle
@@ -57,7 +57,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Spaziergang
@@ -66,7 +66,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-31@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:5-km-Test + Kraft
@@ -78,7 +78,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Langer Lauf
@@ -87,76 +87,79 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:Ruhetag
-DESCRIPTION:Ruhetag · 0–30′: Spaziergang + Mobility (Studio-Weg\, Pul
- s <117)\, Ruhe nach Test-Woche
+SUMMARY:Lockeres Rad (optional)
+DESCRIPTION:Lockeres Rad (optional) · 30′: Rollentrainer sehr locker Z1
+  (≤117 bpm\, ~100 W)\, Kadenz 90–95\; Aufbau/Test des Trainers\; entf
+ ällt bei Müdigkeit oder zu hoher Last\nMyWhoosh-Workout (.zwo): https://
+ jokoslik-ai.github.io/training-kalender/workouts/2026-11-02_lockeres-rad-o
+ ptional-30-rolle.zwo
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:Kraft + Rad
-DESCRIPTION:Kraft + Rad · 50′ + 35′ = 85′: Kraft Ganzkörper (2–3
-  Sätze\, 2 Wdh. in Reserve)\, danach Rad locker Z1–Z2 (≤136 bpm)\; Be
- ine moderat
+SUMMARY:Kraft Studio
+DESCRIPTION:Kraft Studio · 50′ (+ optional 15–20′ Ergometer locker 
+ Z1–Z2): Ganzkörper\, 2–3 Sätze\, 2 Wdh. in Reserve\; Beine moderat (
+ Mi Intervalle)\; Mobility 10′
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:Lauf-Intervalle
-DESCRIPTION:Lauf-Intervalle · 60′: 15′ ein (Z2\, ~6:30/km) · 5×4′
-  hart (Ziel-Pace ca. 5:00/km aus 5-km-Test 4:48\, gleichmäßig) / 3′ tr
- aben · 10′ aus (≤136)
+SUMMARY:Lauf-Intervalle (Laufband)
+DESCRIPTION:Lauf-Intervalle (Laufband) · 50′: 15′ ein (Z2\, ~6:30/km)
+  · 4×4′ hart (Ziel-Pace ca. 5:00/km\, Laufband 1 % Steigung\, gleichm
+ äßig) / 3′ traben
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Rad locker
-DESCRIPTION:Rad locker · 60′ Rollentrainer (erste Einheit)\, Z2 (117–
- 136 bpm)\, Kadenz ~90\, nicht härter
+SUMMARY:Lauf locker
+DESCRIPTION:Lauf locker · 45′ Z2 (Sprechtest\, Puls bis ca. 140 ok\, ~6
+ :30–6:45/km) + 4×20 s Steigerungen
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Lauf locker
-DESCRIPTION:Lauf locker · 40′ Z2 (117–136 bpm\, ~6:30–6:45/km) + 4
- ×20 s Steigerungen
+SUMMARY:Rad-Intervalle
+DESCRIPTION:Rad-Intervalle · 55′ Rollentrainer: 15′ ein · 4×4′ @1
+ 05 % FTP (210 W)\, 3′ @55 % · 10′ aus\; Puls am Ende der Wdh. soll Z4
+  (≥156) erreichen\, sonst FTP-Anpassung vorschlagen. Nur wenn Mi gut ver
+ lief\nMyWhoosh-Workout (.zwo): https://jokoslik-ai.github.io/training-kale
+ nder/workouts/2026-11-06_rad-intervalle-55-rollentraine.zwo
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:Kraft + Rad-Intervalle
-DESCRIPTION:Kraft + Rad-Intervalle · 40′ + 65′ = 105′: erst Kraft 4
- 0′ (Beine moderat\, So langer Lauf)\, danach Rollentrainer 4×4′ hart 
- / 3′ locker (FTP 200 W)\nMyWhoosh-Workout (.zwo): https://jokoslik-ai.gi
- thub.io/training-kalender/workouts/2026-11-07_kraft.zwo
+SUMMARY:Kraft Studio
+DESCRIPTION:Kraft Studio · 50′ (+ optional 20′ Ergometer locker Z1–
+ Z2): Ganzkörper\, Beine leicht–moderat (So langer Lauf)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-08@health-coach
-DTSTAMP:20261101T072553Z
+DTSTAMP:20261101T132631Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Langer Lauf
-DESCRIPTION:Langer Lauf · 75′ Z2 (117–136 bpm)\, flach\, ~6:30–6:45
- /km
+DESCRIPTION:Langer Lauf · 70′ Z2 (Sprechtest\, ~6:30–6:45/km)\, flach
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
