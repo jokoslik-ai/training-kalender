@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workout_file>
   <author>health-coach</author>
-  <name>Rad-Intervalle · 55′ Rollentrainer: 15′ ein · 4×4′ @105 % FTP (210 W), 3′ @55 % · 10′ aus; Puls am Ende der Wdh. soll Z4 (≥156) erreichen, sonst FTP-Anpassung vorschlagen. Nur wenn Mi gut verlief</name>
+  <name>Rad-Intervalle · 55′ Rollentrainer: 15′ ein · 4×4′ @105 % FTP (210 W), 3′ @55 % · 10′ aus; Puls am Ende der Wdh. soll Z4 (≥156) erreichen, sonst FTP-Anpassung vorschlagen. Nur wenn Do gut verlief, sonst locker Z2</name>
   <description>15′ ein, 4×(4′ @105 %, 3′ @55 %), 10′ aus</description>
   <sportType>bike</sportType>
   <tags/>
