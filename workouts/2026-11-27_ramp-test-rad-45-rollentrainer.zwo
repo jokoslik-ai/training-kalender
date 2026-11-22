@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workout_file>
+  <author>health-coach</author>
+  <name>Ramp-Test Rad · 45′ Rollentrainer: 15′ ein · Rampe in 1-min-Stufen bis Abbruch · 10′ aus; liefert FTP und Rad-Maximalpuls (volle Ausbelastung). Nur bei guter Tagesform und symptomfrei, sonst verschieben, nicht nachholen</name>
+  <description>15′ ein, 20′ @50-150 %, 10′ aus</description>
+  <sportType>bike</sportType>
+  <tags/>
+  <workout>
+    <Warmup Duration="900" PowerLow="0.45" PowerHigh="0.75"/>
+    <Ramp Duration="1200" PowerLow="0.50" PowerHigh="1.50"/>
+    <Cooldown Duration="600" PowerLow="0.65" PowerHigh="0.40"/>
+  </workout>
+</workout_file>
