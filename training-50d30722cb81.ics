@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:2026-11-16@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Lockeres Rad (optional)
@@ -17,7 +17,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Kraft Studio
@@ -28,7 +28,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Lauf locker
@@ -39,7 +39,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Rad Z2 lang
@@ -49,7 +49,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Schwellentest Lauf
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Kraft Studio
@@ -70,7 +70,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Langer Lauf
@@ -79,77 +79,79 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:Ruhetag
-DESCRIPTION:Ruhetag
+SUMMARY:Rad Sweet Spot
+DESCRIPTION:Rad Sweet Spot · 60′ Rollentrainer: 15′ ein · 3×10′ @
+ 88 % (~185 W)\, 4′ locker @55 % dazwischen · 10′ aus\; Puls ca. 135
+ –155\, RPE 6–7\, kein Z5 (Fr Intervalle)\nMyWhoosh-Workout (.zwo): htt
+ ps://jokoslik-ai.github.io/training-kalender/workouts/2026-11-23_rad-sweet
+ -spot-60-rollentraine.zwo
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:Kraft Studio
-DESCRIPTION:Kraft Studio · 50′: Ganzkörper\, Beine nur leicht (Mi Inte
- rvalle)\, 2 Sätze\, 2–3 Wdh. in Reserve\; Mobility 10′
+SUMMARY:Dienstreise
+DESCRIPTION:Dienstreise · keine Einheit (Kraft entfällt\, nicht nachhole
+ n)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-SUMMARY:Lauf-Intervalle
-DESCRIPTION:Lauf-Intervalle · 55′ Laufband im Studio: 15′ ein · 4×4
- ′ hart bei ca. 12\,2 km/h (≈4:55/km\; Ziel End-Puls ≥176\, letzte Wd
- h. gleich schnell wie die erste\, RPE 8–9) mit 3′ traben
+SUMMARY:Dienstreise
+DESCRIPTION:Dienstreise · keine Einheit\; optional spontan 20–30′ loc
+ kerer Lauf (Sprechtempo\, Puls bis ca. 140)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SUMMARY:Rad Z2
-DESCRIPTION:Rad Z2 · 60′ Rollentrainer\, 65 % FTP (~137 W)\, Puls 117
- –140\, Kadenz 90\; Beine schonen für den Test\nMyWhoosh-Workout (.zwo):
-  https://jokoslik-ai.github.io/training-kalender/workouts/2026-11-26_rad-z
- 2-60-rollentrainer-65-ftp.zwo
+SUMMARY:Dienstreise
+DESCRIPTION:Dienstreise · keine Einheit (Rückreise abends)\; optional sp
+ ontan 20–30′ locker\, höchstens einer der beiden Läufe Mi/Do
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-SUMMARY:Ramp-Test Rad
-DESCRIPTION:Ramp-Test Rad · 45′ Rollentrainer: 15′ ein · Rampe in 1-
- min-Stufen bis Abbruch\nMyWhoosh-Workout (.zwo): https://jokoslik-ai.githu
- b.io/training-kalender/workouts/2026-11-27_ramp-test-rad-45-rollentrainer.
- zwo
+SUMMARY:Lauf-Intervalle
+DESCRIPTION:Lauf-Intervalle · 55′ outdoor\, flach (Homeoffice): 15′ e
+ in · 4×4′ hart (≈4:55/km\, Ziel End-Puls ≥176\, letzte Wdh. gleich
+  schnell\, RPE 8–9) mit 3′ traben
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Kraft Studio
-DESCRIPTION:Kraft Studio · 50′ (+ optional 15′ Ergometer locker Z1–
- Z2): Ganzkörper\, Beine leicht (So langer Lauf)\, nach dem Test eher lock
- er
+DESCRIPTION:Kraft Studio · 50′: Ganzkörper\, Beine leicht (So Long Run
+ \, Fr Intervalle)\, 2 Sätze\, 3 Wdh. in Reserve\; Mobility 10′
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29@health-coach
-DTSTAMP:20261123T074616Z
+DTSTAMP:20261123T075702Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Langer Lauf
 DESCRIPTION:Langer Lauf · 70′ locker (Sprechtempo\, Puls bis ca. 140–
- 145\, ~6:30–6:45/km\, ca. 10–11 km)\, flach
+ 145\, ~6:30–6:45/km\, ca. 10–11 km)\, flach\; **Start früh (ca. 8:30
+ –9:00)**: nachmittags ~8 mm Regen vorhergesagt\, vormittags kaum. Vor de
+ m Lauf nochmals Wetter prüfen\; Ramp-Test Rad entfällt in KW48 und wird 
+ neu terminiert (nicht direkt vor/nach harten Läufen)
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
